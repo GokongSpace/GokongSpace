@@ -1,4 +1,4 @@
-## Hi, GokongSpace here 👋
+## Hi, Gokong here 👋
 
 <!--
 **GokongSpace/GokongSpace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
