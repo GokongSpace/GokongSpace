@@ -1,4 +1,4 @@
-## Hi GokongSpace here 👋
+## Hi, GokongSpace here 👋
 
 <!--
 **GokongSpace/GokongSpace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 Focus on **Computer Science** and **IoET Tech**
-- 🔭 I’m currently learning **Algorithm Design and Analysis**  
-- 🦿 Seeking to develop fun & intelligent future prosthetics
-- 🚀 Try to be **Open Source Enthusiast**
-- 🛡️ Striving to be brave in life
+- 🌱 Focus on **Computer Science** and **IoET Tech**  
+- 🔭 I’m currently learning ``Algorithm Design and Analysis``    
+- 🦿 Seeking to develop fun & intelligent future prosthetics  
+- 🚀 Try to be **Open Source Enthusiast**  
+- 🛡️ Striving to be brave in life  
    
