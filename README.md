@@ -13,11 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🛡️ Striving to be brave in life  
 -->
 
 - 🌱 Focus on **Computer Science** and **IoET Tech**  
-- 🔭 I’m currently learning ``Algorithm Design and Analysis``    
+- 🔭 Currently learning ``Algorithm Design and Analysis``    
 - 🦿 Seeking to develop fun & intelligent future prosthetics  
 - 🚀 Try to be **Open Source Enthusiast**  
-- 🛡️ Striving to be brave in life  
+
    
