@@ -21,4 +21,24 @@ Here are some ideas to get you started:
 - 🦿 Seeking to develop fun & intelligent future prosthetics  
 - 🚀 Try to be **Open Source Enthusiast**  
 
-   
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/GokongSpace/GokongSpace/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/GokongSpace/GokongSpace/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/GokongSpace/GokongSpace/output/github-snake.svg"
+    />
+  </picture>
+</p>
