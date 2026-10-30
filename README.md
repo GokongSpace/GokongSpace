@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🌱 Focus on **Computer Science** and **IoET Tech**  
 - 🔭 Currently learning ``Algorithm Design and Analysis``    
-- 🦿 Seeking to develop fun & intelligent future prosthetics  
+- 🤖 Seeking to develop fun & intelligent future prosthetics  
 - 🚀 Try to be **Open Source Enthusiast**  
 
 
