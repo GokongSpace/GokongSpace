@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 - 🚀 Try to be **Open Source Enthusiast**  
 
 
----
-
 <!--🐍 GitHub Contribution Snake-->
 
 <p align="center">
