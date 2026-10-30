@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 🐍 GitHub Contribution Snake
+<!--🐍 GitHub Contribution Snake-->
 
 <p align="center">
   <picture>
